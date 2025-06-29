@@ -1,0 +1,1 @@
+CREATE INDEX IX_Territories_RegionID ON Territories (RegionID);
